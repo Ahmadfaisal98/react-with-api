@@ -1,0 +1,22 @@
+.app {
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.card {
+  background-color: #efefef;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
